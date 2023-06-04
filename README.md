@@ -1,1 +1,2 @@
-# Tugas-Besar-Pengenalan-Komputasi-KU1102
+# General Information
+Tugas Besar 1 Pengenalan Komputasi "Simple Cash Register CLI"
